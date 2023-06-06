@@ -1,4 +1,11 @@
 {
+  "name": "discordbot-v13",
+  "version": "1.0.0",
+  "main": "lib/Index.js",
+  "license": "MIT",
+  "scripts": {
+     "build": "tsc"
+  },
   "dependencies": {
     "discord.js": "13",
     "dotenv": "^16.1.4"
